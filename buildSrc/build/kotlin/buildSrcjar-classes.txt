@@ -1,0 +1,1 @@
+C:\Users\Android Desktop\AndroidStudioProjects\KotlinDSLSample\buildSrc\build\classes\kotlin\main\Config.class;C:\Users\Android Desktop\AndroidStudioProjects\KotlinDSLSample\buildSrc\build\classes\kotlin\main\Libs.class;C:\Users\Android Desktop\AndroidStudioProjects\KotlinDSLSample\buildSrc\build\classes\kotlin\main\Versions.class
